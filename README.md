@@ -1,6 +1,9 @@
 # InfiniteStars
 Basic infinite stars dodging game made in OpenGL using ImGUI, GLFW, GLM, and GLEW.
 
+NOTE:
+Open the project source .sln file on VS 2019.
+
 -------------------------------------------------------------------------------------------
 INSTRUCTIONS
 
